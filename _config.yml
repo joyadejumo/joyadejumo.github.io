@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/headshot.jpeg"
+  avatar           : "Portrait.jpeg" #"Headshot.jpeg"
   name             : "Joy O. Adejumo"
   pronouns         : # example: "she/her"  
   bio              : "Certified Project Management Professional (PMP) || Professional Scrum Master (PSM II) || Agile Project Manager"
