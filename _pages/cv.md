@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Work Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-
-Experience
-======
 ### Project Manager
-Proximaforte Limited · Full-time
-Aug 2024 - Present · 6 mos
-Lagos State, Nigeria · Hybrid
+<address>
+  Proximaforte Limited · Full-time<br /> Aug 2024 - Present · 6 mos<br /> Lagos State, Nigeria · Hybrid
+</address>
 
 <!-- * Fall 2015: Research Assistant
   * Github University
