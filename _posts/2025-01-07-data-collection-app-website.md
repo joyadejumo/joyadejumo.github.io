@@ -1,8 +1,8 @@
 ---
 
 title: 'Data Collection App and Website Development'
-date: 2083-10-01
-permalink: /posts/2083-10-01-data-collection-app-website/
+date: 2025-01-07
+permalink: /projects/2025-01-07-data-collection-app-website/
 tags:
   - Project Management
   - App Development

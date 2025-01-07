@@ -1,8 +1,8 @@
 ---
 
 title: 'Electronic Medical Records (EMR) System'
-date: 2083-11-01
-permalink: /posts/2083-11-01-emr-system/
+date: 2025-01-07
+permalink: /projects/2025-01-07-emr-system/
 tags:
   - Healthcare
   - Scrum Master

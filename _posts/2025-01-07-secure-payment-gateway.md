@@ -1,8 +1,8 @@
 ---
 
 title: 'Secure Payment Gateway Development'
-date: 2083-08-01
-permalink: /posts/2083-08-01-secure-payment-gateway/
+date: 2025-01-07
+permalink: /projects/2025-01-07-secure-payment-gateway/
 tags:
   - Fintech
   - Scrum Master

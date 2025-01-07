@@ -1,7 +1,7 @@
 ---
 title: 'State-Wide Data Collection Initiative'
-date: 2083-06-01
-permalink: /posts/2083-06-01-state-wide-data-collection-initiative/
+date: 2025-01-07
+permalink: /projects/2025-01-07-state-wide-data-collection-initiative/
 tags:
   - Operations
   - Project Management

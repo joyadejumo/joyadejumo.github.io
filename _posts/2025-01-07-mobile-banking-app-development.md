@@ -1,8 +1,8 @@
 ---
 
 title: 'Mobile Banking App Development'
-date: 2083-09-01
-permalink: /posts/2083-09-01-mobile-banking-app-development/
+date: 2025-01-07
+permalink: /projects/2025-01-07-mobile-banking-app-development/
 tags:
   - Fintech
   - Scrum Master

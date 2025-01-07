@@ -1,8 +1,8 @@
 ---
 
 title: 'Legal and Operational Projects'
-date: 2083-12-01
-permalink: /posts/2083-12-01-legal-operational-projects/
+date: 2025-01-07
+permalink: /projects/2025-01-07-legal-operational-projects/
 tags:
   - Legal Consultancy
   - Agile Project Management

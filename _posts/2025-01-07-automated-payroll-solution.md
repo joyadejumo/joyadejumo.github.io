@@ -1,8 +1,8 @@
 ---
 
 title: 'Automated Payroll Solution Implementation'
-date: 2083-07-01
-permalink: /posts/2083-07-01-automated-payroll-solution/
+date: 2025-01-07
+permalink: /projects/2025-01-07-automated-payroll-solution/
 tags:
   - Project Management
   - Payroll Automation
