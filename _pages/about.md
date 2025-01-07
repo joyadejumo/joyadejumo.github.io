@@ -7,6 +7,59 @@ redirect_from:
   - /about.html
 ---
 
+# Joy Olajumoke Adejumo  
+**Project Manager | Scrum Master | Operations Specialist**  
+Contact: +2349071232049 | [Email](mailto:your.email@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+
+I am a **Certified Project Manager (PMP)** and **Professional Scrum Master II (PSM II)** with over four years of experience delivering innovative solutions across **fintech**, **healthcare**, and the **public sector**. I specialize in leading large-scale projects, managing diverse teams, and driving operational excellence through process automation and resource optimization.  
+
+From automating payroll systems for government employees to building fintech products like payment gateways and mobile banking apps, I consistently deliver results that align with organizational goals, ensuring timely delivery, regulatory compliance, and stakeholder satisfaction.  
+
+---
+
+## **Certifications & Awards**  
+
+### **Certifications**
+- **Professional Scrum Master II (PSM II)**, Scrum.org – *November 2024*  
+- **Project Management Professional (PMP)**, PMI – *August 2023*  
+- **Bachelor of Laws**, University of Ilorin – *September 2019*  
+
+### **Awards & Recognition**
+- Recognized for excellence in **stakeholder communication**, ensuring real-time reporting and alignment on high-value projects.  
+- Commended for leadership in **operational efficiency**, delivering projects ahead of schedule and under budget.  
+
+---
+
+## **Expertise**  
+- **Process Improvement**  
+- **Risk Management**  
+- **Stakeholder Engagement**  
+- Proficient in **JIRA**, **Trello**, **Asana**, and **MS Project** for:  
+  - Project tracking  
+  - Resource management  
+  - Continuous improvement  
+
+---
+
+## **Education**
+- **Nigerian Law School**, *2022*  
+- **Bachelor of Laws (LLB)**, University of Ilorin, *2019*  
+
+---
+
+## **Causes**  
+**Children • Health • Human Rights • Poverty Alleviation • Social Services**  
+
+
+<!-- ---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am **Joy Olajumoke Adejumo**, a passionate and results-driven **Project Manager** and **Scrum Master** with extensive experience leading cross-functional teams across diverse industries, including **technology**, **legal**, and **healthcare**. My background in **law**, coupled with my project management expertise, enables me to approach challenges with a **strategic** and **analytical** mindset.  
 
 I am dedicated to delivering **exceptional value**, coaching teams in **Agile practices**, and aligning project goals with broader **business objectives**, regardless of industry or project complexity.  
@@ -58,4 +111,4 @@ I am dedicated to delivering **exceptional value**, coaching teams in **Agile pr
 [Show credential](https://www.linkedin.com/in/joy-adejumo-pmp/details/certifications/1730468286289/single-media-viewer/?type=IMAGE&profileId=ACoAACzbLpUBz1mk_aMXppeD6p4aIUs-gjqspbg)
 
 ## Causes 
-Children • Health • Human Rights • Poverty Alleviation • Social Services
+Children • Health • Human Rights • Poverty Alleviation • Social Services -->
