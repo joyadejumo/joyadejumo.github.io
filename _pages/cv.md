@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Projects & Work Experience"
+title: "Work Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## **Work Experience**  
+<!-- ## **Work Experience**   -->
 
-### **Project Manager**  
+## **Project Manager**  
 <address>
   Proximaforte Limited · Full-time<br /> Aug 2024 - Present · 6 mos<br /> Lagos State, Nigeria · Hybrid 
 </address>  
@@ -17,7 +17,9 @@ redirect_from:
 - Led multiple large-scale projects, driving operational efficiency and stakeholder satisfaction.  
 - Streamlined workflows through automation, reducing processing time by 30%.  
 
-### Project Manager/Scrum Master  
+---
+
+## Project Manager/Scrum Master  
 **Folusho Adejumo and Partners** · Full-time  
 **May 2021 - Present · 3 yrs 9 mos**  
 **Hybrid**  
@@ -30,7 +32,9 @@ redirect_from:
 - Maintained 100% tracking and reporting of scrum activities.  
 - Utilized MS Project to develop comprehensive Work Breakdown Structures (WBS), facilitating streamlined project execution and ensuring on-time delivery.  
 
-### Project Manager/Scrum Master  
+---
+
+## Project Manager/Scrum Master  
 **Taoltech** · Full-time  
 **Jun 2024 - Sep 2024 · 4 mos**  
 **Remote**  
@@ -42,7 +46,10 @@ redirect_from:
 - Developed comprehensive project plans for the EMR and website, and tracked progress using ASANA.  
 - Identified risks and impediments in the development of the EMR and website, proactively addressing issues and facilitating solutions to keep the projects on track and meet quality standards.  
 
-### Research Project Coordinator  
+---
+
+## Research Project Coordinator  
+
 **Magistrate Courts** · Full-time  
 **Aug 2021 - Apr 2022 · 9 mos**  
 **Ibadan, Oyo State, Nigeria · On-site**  
@@ -53,9 +60,11 @@ redirect_from:
 - Ensured complete compliance with legal and ethical standards in all research activities.  
 - Maintained up-to-date documentation for all research projects.  
 - Generated detailed research reports, demonstrating a 95% client satisfaction rate with the quality and clarity of reports.  
-- Identified potential project risks and developed contingency plans, resulting in a 90% success rate in overcoming unexpected obstacles.  
+- Identified potential project risks and developed contingency plans, resulting in a 90% success rate in overcoming unexpected obstacles. 
 
-### Women Coordinator  
+---
+
+## Women Coordinator  
 **Christ Ambassadors Students Outreach** · Apprenticeship  
 **Jun 2017 - Aug 2019 · 2 yrs 3 mos**  
 **Ilorin, Kwara State, Nigeria · On-site**  
@@ -67,7 +76,7 @@ redirect_from:
 - Fostered a collaborative and communicative team environment, achieving a team satisfaction rate of at least 85% through feedback and improvements.
 
 ---
-
+<!-- 
 ## **Projects**  
 
 ### **1. State-Wide Data Collection Initiative**  
@@ -133,20 +142,4 @@ redirect_from:
 
 - Optimized inventory tracking, vendor management, and compliance for high-value acquisitions.  
 
-**Impact:** Improved operational efficiency by 15% and reduced billing discrepancies by 20%.  
-
-<!-- ---
-layout: archive
-title: "Work Experience"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
-### Project Manager
-<address>
-  Proximaforte Limited · Full-time<br /> Aug 2024 - Present · 6 mos<br /> Lagos State, Nigeria · Hybrid
-</address> -->
+**Impact:** Improved operational efficiency by 15% and reduced billing discrepancies by 20%.   -->

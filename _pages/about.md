@@ -49,13 +49,13 @@ I am dedicated to delivering **exceptional value**, coaching teams in **Agile pr
 <address>
   Forage<br /> Issued May 2024<br /> Credential ID B3n67exbPmpM9r2Ec<br /> Skills: Project Management and Agile Project Management
 </address>
-[Show credential](https://www.linkedin.com/in/joy-adejumo-pmp/details/certifications/1714830815503/single-media-viewer/?type=IMAGE&profileId=ACoAACzbLpUBz1mk_aMXppeD6p4aIUs-gjqspbg)
+<!-- [Show credential](https://www.linkedin.com/in/joy-adejumo-pmp/details/certifications/1714830815503/single-media-viewer/?type=IMAGE&profileId=ACoAACzbLpUBz1mk_aMXppeD6p4aIUs-gjqspbg) -->
 
 ### Project Management Professional (PMP)
 <address>
   Project Management Institute<br /> Issued Aug 2023 · Expires Aug 2026<br /> Credential ID 3627858<br />  Skills: Project Management
 </address>
-[Show credential](https://www.linkedin.com/in/joy-adejumo-pmp/details/certifications/1730468286289/single-media-viewer/?type=IMAGE&profileId=ACoAACzbLpUBz1mk_aMXppeD6p4aIUs-gjqspbg)
+<!-- [Show credential](https://www.linkedin.com/in/joy-adejumo-pmp/details/certifications/1730468286289/single-media-viewer/?type=IMAGE&profileId=ACoAACzbLpUBz1mk_aMXppeD6p4aIUs-gjqspbg) -->
 
 ## Causes 
 Children • Health • Human Rights • Poverty Alleviation • Social Services
